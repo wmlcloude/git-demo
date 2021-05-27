@@ -14,6 +14,6 @@ hello wml git
 hello wml git
 hello wml git
 hello wml git
-hello wml git
+hello wml git master test
 hello wml git
 hello wml git

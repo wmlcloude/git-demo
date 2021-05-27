@@ -14,7 +14,5 @@ hello wml git
 hello wml git
 hello wml git
 hello wml git
-<<<<<<< HEAD
 hello wml git master test
 hello wml git hot-fix test
->>>>>>> hot-fix
